@@ -1,6 +1,6 @@
 <?php
 
-	$tit="Multi Electrica FELCY";
+	$tit="La Santa Gula";
         $dateNow=date("Y-m-d");
         $timeNow=date("H:i");
         $rutaImgProd="uploads/";

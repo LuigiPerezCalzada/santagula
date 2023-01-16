@@ -3,14 +3,13 @@
 	date_default_timezone_set('America/Mexico_City');
 	$host="localhost";
 	$user="root";
-	$pass="";
-	$db="punto_venta_felcy";
-//	$db="laconcepcionproduccion";
+	$pass="root";
+	$db="santagula";
 	$con=mysqli_connect($host, $user, $pass, $db);
 	if($con->connect_error){
 		die("Connection failed: ".$con->connect_error);
 	}
-	//echo 'Hola';
+	// echo 'Hola';
 	$tStock="almacenes";
 	$tCategory="categorias";
 	$tSubCategory="subcategorias";
@@ -19,7 +18,7 @@
         $tProduct="productos";
         $tWaste="sobrantes";
         $tStore="tiendas";
-        $tUser="usuarios";
+        $tUser="usuarios"; 
         $tSaleInfo="ventas_info";
         $tSaleProd="ventas_prod";
         $tEst="estatus";

@@ -13,11 +13,11 @@ else {
   <div class="container">
     <div class="row text-center">
       <div class="col-xs-12">
-            <img src="assets/img/felcy.jpg" class="img-round"> 
+            <img src="assets/img/logo_santagula.jpg" class="img-round"> 
       </div>
       <div class="col-md-12 titulo">
         BIENVENIDO AL SISTEMA ADMINISTRATIVO DE LA <br>
-        Multi Electrica FELCY
+        SANTA GULA
       </div>	  
     </div>
   </div>
