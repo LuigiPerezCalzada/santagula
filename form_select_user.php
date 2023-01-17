@@ -139,7 +139,6 @@ else {
       </tr>
     </thead>
     <tbody>
-      <!--<?= $optUsers; ?>-->
     </tbody>    
   </table>
   </table>

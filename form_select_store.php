@@ -101,7 +101,6 @@ else {
         </tr>
       </thead>
       <tbody>
-        <!--<?= $optStore; ?>-->
       </tbody>    
     </table>
   </div>
